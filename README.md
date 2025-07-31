@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 ¡Hola! Soy Emmanuel Machado
 
-<!--
-**Emmanuel-Machado/Emmanuel-Machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador en proceso, interesado por la tecnología y el aprender cada vez más.
 
-Here are some ideas to get you started:
+🔭 Actualmente trabajo para ser mejor cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendiendo sobre la programación en Pyhton, SQL, HTML, CSS y más.
+
+🤝 Buscando crear buenos proyectos como paginas web para una mejor experiencia a las demás personas.
+
+🧠 Interesado en desarrollo web, innovaciones y soluciones.
+
+📫 ¿Hablamos? Me encuentras en: [joseemmanuelrestrepo1217@gmail.com, @Emmanuel_Machado, +57 3015465842]
